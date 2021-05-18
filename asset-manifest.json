@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/livereactwebsite/static/css/main.d9983585.chunk.css",
+    "main.js": "/livereactwebsite/static/js/main.82d0e721.chunk.js",
+    "main.js.map": "/livereactwebsite/static/js/main.82d0e721.chunk.js.map",
+    "runtime-main.js": "/livereactwebsite/static/js/runtime-main.36b03c1b.js",
+    "runtime-main.js.map": "/livereactwebsite/static/js/runtime-main.36b03c1b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/livereactwebsite/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.224d74d6.chunk.js": "/livereactwebsite/static/js/2.224d74d6.chunk.js",
+    "static/js/2.224d74d6.chunk.js.map": "/livereactwebsite/static/js/2.224d74d6.chunk.js.map",
+    "index.html": "/livereactwebsite/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/livereactwebsite/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d9983585.chunk.css.map": "/livereactwebsite/static/css/main.d9983585.chunk.css.map",
+    "static/js/2.224d74d6.chunk.js.LICENSE.txt": "/livereactwebsite/static/js/2.224d74d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36b03c1b.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.224d74d6.chunk.js",
+    "static/css/main.d9983585.chunk.css",
+    "static/js/main.82d0e721.chunk.js"
+  ]
+}
